@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiru
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
--  I’m looking to collaborate on freelancing or papper presentation
+- 🤝 I’m looking to collaborate on freelancing or papper presentation
 - 📫 How to reach me via [buddy-forever-2005.netlify.app](https://buddy-forever-2005.netlify.app/)
