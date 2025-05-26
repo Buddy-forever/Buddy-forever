@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @thiru
-- 👀 I’m interested in technologies
-- 🌱 I’m currently learning Artificial Intelligence And Data Science
-- 🤝 I’m looking to collaborate on freelancing or papper presentation
+
